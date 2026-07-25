@@ -40,23 +40,14 @@
 
 ---
 
-### 🌱 Currently Learning
+🌱 **Currently Learning**
 
-✔ Spring Boot
+- Spring Boot
+- Advanced Java
+- MERN Stack
+- System Design
+- Cloud Computing
 
-✔ Advanced Java
-
-✔ MERN Stack
-
-✔ System Design
-
-✔ Cloud Computing
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ Microservices
 
 ---
 
