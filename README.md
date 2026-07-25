@@ -158,6 +158,14 @@ public class Developer {
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/harsha1813/harsha1813/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
