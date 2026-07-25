@@ -49,8 +49,8 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[portfolio"](https://portfolio-frontend-one-flax.vercel.app/)>
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome"/>
+<a href="https://portfolio-frontend-one-flax.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
 </a>
 
 </p>
