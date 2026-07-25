@@ -311,7 +311,7 @@
 
 <div align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/22h51a05t9/)">
+<a href="[https://leetcode.com/harsha/](https://leetcode.com/u/22h51a05t9/)">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -323,25 +323,9 @@
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coder-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="[https://www.codechef.com/](https://www.codechef.com/users/harsha9439)">
+<a href="[https://www.codechef.com/harsha](https://www.codechef.com/users/harsha9439)">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
-
-</div>
-
----
-
-
-
-
-
-```
-
-# 🌟 Motto
-
-<div align="center">
-
-## "Dream Big. Build Bigger."
 
 </div>
 
@@ -422,8 +406,6 @@ If you like my work, consider ⭐ starring my repositories and following my jour
 <img src="https://img.shields.io/badge/Lifelong-Learner-00C2FF?style=for-the-badge"/>
 
 </div>
-
----
 
 
 ---
