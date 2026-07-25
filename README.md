@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi there 👋 I'm Bheemanathi Harshavardhan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=220&section=header&text=Bheemanathi%20Harshavardhan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
+<h1>Hi 👋, I'm Bheemanathi Harshavardhan</h1>
+
+<h3>Software Developer | Java Developer | MERN Stack Developer | AI & Machine Learning Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Software+Engineering+Roles;Always+Learning+New+Technologies" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=harsha1813&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -12,45 +18,45 @@
 
 # 🚀 About Me
 
-🎓 B.Tech in Computer Science Engineering (2026)
+🎓 **B.Tech in Computer Science Engineering (2026)**
 
-💻 Passionate Software Developer
+💻 Passionate about building scalable web applications and solving real-world problems.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
-- Advanced Java
 - Spring Boot
+- Advanced Java
 - MERN Stack
 - System Design
+- Cloud Computing
 
-🤖 Interested in
+🤖 **Interested In**
 
 - Artificial Intelligence
 - Machine Learning
 - Full Stack Development
-- Cloud Computing
+- Backend Development
 
-📫 Reach Me
+🎯 **Current Goal**
 
-- Email: [bheemanathiharsha@gmail.com](mailto:bheemanathiharsha@gmail.com)
-- LinkedIn: [linkedin.com/in/harsha-bheemanathi-4a936a259](https://www.linkedin.com/in/harsha-bheemanathi-4a936a259/)
-- Portfolio: [portfolio-frontend-one-flax.vercel.app](https://portfolio-frontend-one-flax.vercel.app/)
+Looking for Software Engineer / Java Developer opportunities where I can contribute, learn, and grow.
+
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/harsha-bheemanathi-4a936a259/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/harsha-bheemanathi-4a936a259/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bheemanathiharsha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-frontend-one-flax.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+<a href="https://portfolio-frontend-one-flax.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -59,101 +65,33 @@
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,mysql"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,fastapi"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,postgresql,firebase,fastapi,git,github,docker,vscode,postman,npm"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 🎓 Alumni Portal
-
-> MERN Stack Alumni Networking Platform
-
-✨ Features
-
-- Authentication
-- Student Dashboard
-- Alumni Dashboard
-- Events
-- Job Portal
+| 🚀 Project | 💻 Tech Stack | 📖 Description |
+|------------|---------------|----------------|
+| 🎓 Alumni Portal | MERN Stack | Alumni networking platform with authentication, events, dashboards, and job portal. |
+| 🍽️ FoodFlex | React, Firebase | Smart canteen ordering application with real-time database. |
+| 💼 CloseToWork | HTML, CSS, JavaScript, Firebase | Job recommendation platform with responsive UI. |
+| 🤖 Unified Face Detection | FastAPI, OpenCV, MediaPipe | AI-powered real-time face detection system. |
+| 🩺 Skin Cancer Detection | Python, MobileNetV2 | Deep Learning model for skin cancer classification. |
 
 ---
 
-## 🍽 FoodFlex
-
-Online Smart Canteen Ordering System
-
-React • Firebase
-
----
-
-## 💼 CloseToWork
-
-Job Recommendation Platform
-
-HTML • CSS • JavaScript • Firebase
-
----
-
-## 🤖 Unified Face Detection System
-
-MediaPipe + OpenCV + FastAPI
-
----
-
-## 🩺 Skin Cancer Detection
-
-Deep Learning
-
-MobileNetV2
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha1813&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha1813&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1813&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1813&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -163,7 +101,7 @@ MobileNetV2
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=harsha1813&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=harsha1813&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -173,29 +111,48 @@ MobileNetV2
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harsha1813&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harsha1813&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha1813&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha1813&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 🎯 Currently Working On
+
+- 🌱 Learning Spring Boot
+- 💻 Solving Data Structures & Algorithms
+- 🚀 Building Full Stack Projects
+- ☁️ Exploring Cloud Computing
+- 🤖 AI & Machine Learning Applications
+
+---
+
+# 💡 Fun Code
 
 ```java
-while(!success){
-    learn();
-    build();
-    improve();
+public class Developer {
+
+    public static void main(String[] args) {
+
+        while (!success) {
+            learn();
+            code();
+            build();
+            improve();
+        }
+
+        System.out.println("Keep Growing 🚀");
+    }
 }
 ```
 
@@ -206,5 +163,7 @@ while(!success){
 ### ⭐ Thanks for visiting my profile!
 
 *"Code • Learn • Build • Repeat"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
 
 </div>
