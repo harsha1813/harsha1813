@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harsha1813&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -32,25 +32,24 @@
 
 📫 Reach Me
 
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-
+- Email: [bheemanathiharsha@gmail.com](mailto:bheemanathiharsha@gmail.com)
+- LinkedIn: [linkedin.com/in/harsha-bheemanathi-4a936a259](https://www.linkedin.com/in/harsha-bheemanathi-4a936a259/)
+- Portfolio: [portfolio-frontend-one-flax.vercel.app](https://portfolio-frontend-one-flax.vercel.app/)
 ---
 
 # 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/harsha-bheemanathi-4a936a259/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:bheemanathiharsha@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="[portfolio"](https://portfolio-frontend-one-flax.vercel.app/)>
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome"/>
 </a>
 
@@ -152,9 +151,9 @@ MobileNetV2
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsha1813&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1813&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -164,7 +163,7 @@ MobileNetV2
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=harsha1813&theme=tokyonight"/>
 
 </p>
 
@@ -174,7 +173,7 @@ MobileNetV2
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harsha1813&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -184,7 +183,7 @@ MobileNetV2
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha1813&theme=tokyo-night"/>
 
 </p>
 
