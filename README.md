@@ -142,63 +142,6 @@
 
 ---
 
-# 🏅 Developer Highlights
-
-<div align="center">
-
-| 🚀 | Achievement |
-|:--:|------------|
-| 💻 | Full Stack MERN Developer |
-| ☕ | Strong Java Programming |
-| 🤖 | AI & Machine Learning Projects |
-| 🌐 | Responsive Web Development |
-| 🔥 | REST API Development |
-| 🛢 | SQL & NoSQL Databases |
-| 📦 | Git & GitHub Version Control |
-| 🚀 | Always Learning New Technologies |
-
-</div>
-
----
-
-# ⚙️ Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-📋 Planning
-   │
-   ▼
-🎨 UI Design
-   │
-   ▼
-💻 Development
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-   │
-   ▼
-📈 Continuous Improvement
-```
-
----
-
-# 📚 Core Skills
-
-<div align="center">
-
-| Programming | Web | Database | AI | Tools |
-|--------------|-----|----------|----|-------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
 # 🎯 Focus Areas
 
 <div align="center">
@@ -208,177 +151,19 @@
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎓 Alumni Portal
-
-### 🌐 MERN Stack
-
-A complete alumni networking platform connecting students and alumni with modern authentication and dashboard features.
-
-### ✨ Features
-
-✔ JWT Authentication
-
-✔ Student Dashboard
-
-✔ Alumni Dashboard
-
-✔ Job Portal
-
-✔ Events
-
-✔ Profile Management
-
-✔ Responsive UI
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-</td>
-
-<td width="50%">
-
-## 🍽 FoodFlex
-
-### ⚡ React + Firebase
-
-Smart canteen ordering application with modern UI and Firebase backend.
-
-### ✨ Features
-
-✔ Online Ordering
-
-✔ Firebase Database
-
-✔ Authentication
-
-✔ Responsive Design
-
-✔ Fast Performance
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 💼 CloseToWork
-
-### 🌍 Job Recommendation Platform
-
-A responsive web application that helps users discover nearby employment opportunities.
-
-### ✨ Features
-
-✔ Firebase Storage
-
-✔ Search
-
-✔ Responsive UI
-
-✔ Clean Design
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-
-</td>
-
-<td width="50%">
-
-## 🤖 Face Detection System
-
-### AI + Computer Vision
-
-Real-time face detection using MediaPipe Face Mesh and OpenCV.
-
-### ✨ Features
-
-✔ Real-time Detection
-
-✔ FastAPI Backend
-
-✔ OpenCV
-
-✔ MediaPipe
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🩺 Skin Cancer Detection
-
-### Deep Learning
-
-CNN model using MobileNetV2 for skin cancer classification.
-
-### ✨ Features
-
-✔ MobileNetV2
-
-✔ Image Classification
-
-✔ TensorFlow
-
-✔ AI Prediction
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-</td>
-
-<td width="50%">
-
-## 🌐 Portfolio Website
-
-### Personal Portfolio
-
-Modern portfolio showcasing projects, skills, and achievements.
-
-### ✨ Features
-
-✔ Responsive
-
-✔ Modern UI
-
-✔ Animated Sections
-
-✔ Contact Form
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+| 🚀 Project | 💻 Tech Stack | 📖 Description |
+|------------|---------------|----------------|
+| 🎓 Alumni Portal | MERN Stack | Alumni networking platform with authentication, events, dashboards, and job portal. |
+| 🍽️ FoodFlex | React, Firebase | Smart canteen ordering application with real-time database. |
+| 💼 CloseToWork | HTML, CSS, JavaScript, Firebase | Job recommendation platform with responsive UI. |
+| 🤖 Unified Face Detection | FastAPI, OpenCV, MediaPipe | AI-powered real-time face detection system. |
+| 🩺 Skin Cancer Detection | Python, MobileNetV2 | Deep Learning model for skin cancer classification. |
 
 ---
+
 
 # 📈 Project Statistics
 
@@ -413,8 +198,6 @@ Modern portfolio showcasing projects, skills, and achievements.
 🚀 Full Stack Development
 
 </div>
-
----
 
 ---
 # 📊 GitHub Analytics Dashboard
@@ -468,8 +251,6 @@ Modern portfolio showcasing projects, skills, and achievements.
 > ⚠️ **Note:** The snake animation will only appear after you've set up the GitHub Actions workflow that generates it.
 
 ---
-
-
 
 
 <div align="center">
@@ -530,7 +311,7 @@ Modern portfolio showcasing projects, skills, and achievements.
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="[https://leetcode.com/](https://leetcode.com/u/22h51a05t9/)">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -542,7 +323,7 @@ Modern portfolio showcasing projects, skills, and achievements.
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coder-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="[https://www.codechef.com/](https://www.codechef.com/users/harsha9439)">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
 
@@ -555,23 +336,6 @@ Modern portfolio showcasing projects, skills, and achievements.
 
 
 ```
-
-
-# ☕ Powered By
-
-<div align="center">
-
-Coffee ☕
-
-Music 🎵
-
-Curiosity 🧠
-
-Consistency 🚀
-
-</div>
-
----
 
 # 🌟 Motto
 
@@ -610,19 +374,6 @@ Consistency 🚀
 
 ---
 
-# 🌟 What You'll Find Here
-
-- 🚀 Full Stack Projects
-- ☕ Java Applications
-- 🌐 MERN Stack Development
-- 🤖 AI & Machine Learning Projects
-- 📱 Responsive Web Applications
-- 🔐 Authentication & REST APIs
-- 📊 Database Design
-- 🧩 Problem Solving
-
----
-
 # 💬 Let's Connect
 
 <div align="center">
@@ -640,24 +391,6 @@ Consistency 🚀
 </a>
 
 </div>
-
----
-
-# 📜 Personal Principles
-
-<div align="center">
-
-> 💡 Learn something new every day.
-
-> 🛠 Build projects that solve real problems.
-
-> 🤝 Collaborate and share knowledge.
-
-> 🚀 Keep improving one commit at a time.
-
-</div>
-
----
 
 ---
 
@@ -716,34 +449,6 @@ If you like my work, consider ⭐ starring my repositories and following my jour
 # 🚀 Current Mission
 
 > Build scalable software, contribute to open source, continuously improve my skills, and create solutions that have a real-world impact.
-
----
-
-# 💻 My Coding Philosophy
-
-```java
-class Developer {
-
-    public static void main(String[] args) {
-
-        while(true){
-
-            Learn();
-
-            Practice();
-
-            Build();
-
-            Improve();
-
-            ShareKnowledge();
-
-        }
-
-    }
-
-}
-```
 
 ---
 
