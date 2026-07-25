@@ -126,6 +126,15 @@ Looking for Software Engineer / Java Developer opportunities where I can contrib
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/harsha1813/harsha1813/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
 
 # 🎯 Currently Working On
 
@@ -158,13 +167,7 @@ public class Developer {
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/harsha1813/harsha1813/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 <div align="center">
 
